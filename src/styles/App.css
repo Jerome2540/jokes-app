@@ -1,0 +1,48 @@
+.joke-app-container {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+   
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .search-button {
+    width: 100%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .joke-display {
+    background: #f4f4f4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  .category-buttons {
+    display: flex;
+    
+    justify-content: center;
+    gap: 5px;
+  }
+  
+  .random-joke-button {
+    background-color: #28a745;
+    color: white;
+  }
+  
