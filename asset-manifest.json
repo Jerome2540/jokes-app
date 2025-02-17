@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jerome2540/jokes-app.git/static/css/main.a0f2eb4d.css",
+    "main.js": "/Jerome2540/jokes-app.git/static/js/main.cd2e4d57.js",
+    "static/js/453.78edffa4.chunk.js": "/Jerome2540/jokes-app.git/static/js/453.78edffa4.chunk.js",
+    "index.html": "/Jerome2540/jokes-app.git/index.html",
+    "main.a0f2eb4d.css.map": "/Jerome2540/jokes-app.git/static/css/main.a0f2eb4d.css.map",
+    "main.cd2e4d57.js.map": "/Jerome2540/jokes-app.git/static/js/main.cd2e4d57.js.map",
+    "453.78edffa4.chunk.js.map": "/Jerome2540/jokes-app.git/static/js/453.78edffa4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f2eb4d.css",
+    "static/js/main.cd2e4d57.js"
+  ]
+}
